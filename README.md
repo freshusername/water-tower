@@ -1,2 +1,2 @@
-# water-tower
-Water tower 3-D model built with WebGL/BabylonJs
+# babylonJs_sample_server
+A simple nodeJs express server.
